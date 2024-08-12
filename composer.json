@@ -42,5 +42,10 @@
                 "ZoutApps\\LaravelBackpackAuth\\AuthServiceProvider"
             ]
         }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
     }
 }
